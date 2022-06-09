@@ -2,7 +2,7 @@
 
 I build open-source voice coding tools like [Cursorless](https://marketplace.visualstudio.com/items?itemName=pokey.cursorless).  Lately, I've been obsessed with the following question:
 
-*How we can leverage the phenomenal power of human language to interact with code in new ways?*
+*How can we leverage the phenomenal power of human language to interact with code in new ways?*
 
 I'm working on [a spoken language](https://github.com/pokey/cursorless-vscode/wiki/What's-next) for large-scale, structurally aware voice-controlled code generation and refactoring.
 
