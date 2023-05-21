@@ -6,7 +6,7 @@ I build open-source voice coding tools like [Cursorless](https://marketplace.vis
 
 I'm working on [a spoken language](https://github.com/pokey/cursorless-vscode/wiki/What's-next) for large-scale, structurally aware voice-controlled code generation and refactoring.
 
-If that excites you, get involved! Comment on [the issues](https://github.com/pokey/cursorless-vscode/projects), comment on [my videos](https://www.youtube.com/channel/UCML02pamUSxtbwAcrUdVmXg), hack on [some code](https://github.com/cursorless-dev/cursorless-vscode/contribute), join the [Talon slack](https://talonvoice.com/chat), tweet [at me](https://twitter.com/PokeyRule), and consider [sponsoring me](https://github.com/sponsors/pokey) 😊
+If that excites you, get involved! Comment on [the issues](https://github.com/pokey/cursorless-vscode/projects), comment on [my videos](https://www.youtube.com/@PokeyRuleJams), hack on [some code](https://github.com/cursorless-dev/cursorless-vscode/contribute), join the [Talon slack](https://talonvoice.com/chat), tweet [at me](https://twitter.com/PokeyRule), and consider [sponsoring me](https://github.com/sponsors/pokey) 😊
 
 <!--
 **pokey/pokey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
