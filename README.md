@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build open-source voice coding tools like [Cursorless](https://marketplace.visualstudio.com/items?itemName=pokey.cursorless).  Lately, I've been obsessed with the following question:
+I build open-source voice coding tools like [Cursorless](https://www.cursorless.org/).  Lately, I've been obsessed with the following question:
 
 *How can we leverage the phenomenal power of human language to interact with code in new ways?*
 
