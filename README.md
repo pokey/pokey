@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I build open-source voice coding tools like [Cursorless](https://www.cursorless.org/).  Lately, I've been obsessed with the following question:
+I am the creator of [Cursorless](https://www.cursorless.org/).  I no longer work full-time on Cursorless, but still help when I can
 
-*How can we leverage the phenomenal power of human language to interact with code in new ways?*
-
-I'm working on [a spoken language](https://github.com/pokey/cursorless-vscode/wiki/What's-next) for large-scale, structurally aware voice-controlled code generation and refactoring.
-
-If that excites you, get involved! Comment on [the issues](https://github.com/pokey/cursorless-vscode/projects), comment on [my videos](https://www.youtube.com/@PokeyRuleJams), hack on [some code](https://github.com/cursorless-dev/cursorless-vscode/contribute), join the [Talon slack](https://talonvoice.com/chat), tweet [at me](https://twitter.com/PokeyRule), and consider [sponsoring me](https://github.com/sponsors/pokey) 😊
+I work freelance. I'm not currently looking for new projects, but I love talking about interesting stuff, so please ping me on [Twitter](https://x.com/PokeyRule) or [Bluesky](https://bsky.app/profile/pokeyrule.bsky.social) to chat!
 
 <!--
 **pokey/pokey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
